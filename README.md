@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como um desafio para aprimorar e praticar os conce
 
 ## 🌐 Como Acessar o Projeto?
 O projeto está disponível online!  
-🔗 [Clique aqui para acessar](https://seuusuario.github.io/nome-do-projeto/)
+🔗 [Clique aqui para acessar](https://giferreira-dev.github.io/Desafio-Amigo-Secreto/)
 
 ## 🧑‍💻 Sobre Mim
 📌 Desenvolvedora Full Stack em formação | Apaixonada por resolver problemas com código. Buscando oportunidades para atuar na área de tecnologia!
